@@ -1,6 +1,6 @@
 # ide_activation_code
 
-[IDE激活码JSON](activation_code.json)中简称对应的IDE活插件名称
+[IDE激活码JSON](activation_code.json)中简称对应的IDE活插件名称,提取自[jetbrains.html](jetbrains.html)
 
 ```text
 II = IntelliJ IDEA
