@@ -1,6 +1,10 @@
 # ide_activation_code
 
-[IDE激活码JSON](activation_code.json)中简称对应的IDE活插件名称,提取自[jetbrains.html](jetbrains.html)
+[IDE激活码JSON](activation_code.json)中简称对应的IDE和插件名称,提取自[jetbrains.html](jetbrains.html)
+
+如果你需要找IDEA激活码,现在README.md找到简称是`II`,然后去`activation_code.json`中搜索`II"`就能找到激活码
+
+激活码配合`jetbra.tar.gz`来使用
 
 ```text
 II = IntelliJ IDEA
